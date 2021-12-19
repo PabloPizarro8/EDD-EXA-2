@@ -1,4 +1,9 @@
 /*
+EQUIPO: BananaBread
+INTEGRANTES: 
+    Paulina Arreguin
+    Erick Lozano
+    Pablo Pizarro
 v2
 Diseñar un programa que capture valores TIPO CADENA (STRING) desde el teclado por el usuario.
 El usuario puede capturar cuantos datos quiera. Usted determine el mecanismo para que el 
